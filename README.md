@@ -7,4 +7,6 @@ Invert Mouse Plugin for Memorrha
 - The result should look like this: ![Install](https://github.com/Draradech/MemorrhaInvert/raw/main/install.jpg)
 
 ## Configuration
-- Your mouse look should be inverted without further configuration. If you want to adjust sensitivity, press F1 anywhere in-game. A configuration interface will pop up. Change values as needed. Note: For inverted mouse look, the Y sensitivity should be negative.
+- Your mouse look should be inverted without further configuration.
+- The in-game mouse sensitivity slider is no longer functional when this plugin is installed.
+- If you want to adjust sensitivity, press F1 anywhere in-game. A configuration interface will pop up. Change values as needed. Note: For inverted mouse look, the Y sensitivity should be negative.
